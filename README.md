@@ -7,10 +7,10 @@
 
 Nowadays, during this ongoing pandemic, patients face a situation of unanticipated demise due to specific heart diseases that are either left undiagnosed or too late to get detected. Early diagnosis of heart diseases is very important for the patient's life, as it is one of the crucial impacts of mortality in our country. In clinical data analysis, predicting cardiovascular disease is a primary challenge. Therefore, we propose a project to avoid these sudden deaths that uses a patients dataset to train different ML and DL models and later can predict the potential heart diseases.
 
-*Size of the dataset contains 304 rows with 13 attributes.*
+**Size of the dataset contains 304 rows with 13 attributes.**
 
 
-*Following are the attributes of our dataset:*
+**Following are the attributes of our dataset:**
 
 - Age 
 * Sex 
