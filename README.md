@@ -47,4 +47,4 @@ Nowadays, during this ongoing pandemic, patients face a situation of unanticipat
 A user friendly mobile application is developed and the best algorithm is used as a model in the mobile application.
 
 
-**The results and the conclusions are discussed in the [Final Report](https://github.com/ayushsingh2019/Heart-Disease-Prediction-using-various-ML-algorithms/blob/main/FINAL_PAPER.pdf).
+**The results and the conclusions are discussed in the [Final Report](https://github.com/ayushsingh2019/Heart-Disease-Prediction-using-various-ML-algorithms/blob/main/FINAL_PAPER.pdf).**
